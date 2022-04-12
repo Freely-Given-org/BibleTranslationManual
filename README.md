@@ -1,22 +1,32 @@
 # Bible Translation Manual
 
-This is a copy of the unfoldingWord® Translation Academy from [Door43](https://git.door43.org/unfoldingWord/en_ta/) under the same CC-BY-SA 4.0 licence.
+This is a copy of the _unfoldingWord® Translation Academy_ from [Door43](https://git.door43.org/unfoldingWord/en_ta/) made available under the same CC-BY-SA 4.0 licence.
 
 ## Reasons for the copy
 
 These are the main reasons for making this copy (not necessarily in priority order):
 
-1. The ability to rename it __and to give it greater exposure__. _Translation Academy_ is a nice brand name, and hopefully translators are more likely to search for terms like “Bible Translation Manual”.
-2. The ability for others to fork it on GitHub. _Translation Academy can only be directly forked on [Door43](https://git.door43.org).
+1. The ability to rename it **and to give it greater exposure**. _Translation Academy_ is a nice brand name, and hopefully translators are more likely to search for terms like “Bible Translation Manual”.
+2. The ability for others to fork it on GitHub. _Translation Academy_ can only be directly forked on [Door43](https://git.door43.org).
 3. Just an easy way to list and curate quality Bible resources here in this home.
+
+## Changes from the original
+
+1. Renamed to Bible Translation Manual (12 April 2022)
+
+The original work by unfoldingWord is available from [unfoldingword.org/uta](unfoldingword.org/uta).
 
 ## Future plans
 
-Freely-Given.org plans to offer other formats within this same repository, including LibreOffice files and PDFs.
+1. Freely-Given.org plans to offer other formats within this same repository, including LibreOffice files and PDFs.
+
+## License
+
+See the [LICENSE](https://github.com/Freely-Given-org/BibleTranslationManual/blob/main/LICENSE.md) file for licensing information.
 
 ## Acknowlegements
 
-Translations of the original English manual can be found [here](https://git.door43.org/catalog). Freely-Given.org does not plan to include translations here. If you wish to translate it into your language, we recommend that you follow the original unfoldingWord® instructions replicated below for working on Door43.
+Translations of the original English manual can be found [on Door43](https://git.door43.org/catalog). Freely-Given.org does not plan to include translations here. If you wish to translate it into your language, we recommend that you follow the original unfoldingWord instructions replicated below for working on Door43.
 
 unfoldingWord is a registered trademark of [unfoldingWord](https://www.unfoldingword.org/). Freely-Given.org is very grateful for the high-quality work done by unfoldingWord, and for gifting it for the whole world to use under a generous open license.
 

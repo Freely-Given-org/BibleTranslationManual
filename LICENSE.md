@@ -4,7 +4,7 @@ This work is made available under the Creative Commons Attribution-ShareAlike 4.
 
 ---
 
-The following is the original licence text:
+The following is the original LICENSE text from [here](https://git.door43.org/unfoldingWord/en_ta/src/branch/master/LICENSE.md):
 
 **unfoldingWord® Translation Academy**
 
