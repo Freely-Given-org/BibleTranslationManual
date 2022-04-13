@@ -1,1 +1,1 @@
-Church Leader Check
+Accuracy Checking by Church Leaders

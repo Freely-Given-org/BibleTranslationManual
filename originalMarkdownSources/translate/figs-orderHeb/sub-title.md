@@ -1,1 +1,1 @@
-Word order in Biblical Hebrew
+How does word order work in Biblical Hebrew?

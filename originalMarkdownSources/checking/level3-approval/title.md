@@ -1,1 +1,1 @@
-Translation Evaluation Form
+Quality Checker Evaluation Form

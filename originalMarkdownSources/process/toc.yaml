@@ -25,7 +25,7 @@ sections:
     sections:
       - title: "Training Before Checking Begins"
         link: prechecking-training
-      - title: "Setting Up translationCore"
+      - title: "Setting Up translationCore®"
         link: setup-tc
 
   - title: "Step 5: Publishing"

@@ -134,7 +134,7 @@ sections:
             link: resources-eplain
           - title: "Notes with Synonyms and Equivalent Phrases"
             link: resources-synequi
-          - title: "Notes with Alternate Translations (AT)"
+          - title: "Notes with Alternate Translations"
             link: resources-alter
           - title: "Notes that Clarify the UST Translation"
             link: resources-clarify
@@ -201,7 +201,7 @@ sections:
                 link: figs-imperative
               - title: "Exclamations"
                 link: figs-exclamations
-          - title: "Connecting Words"
+          - title: "Connecting Words and Phrases"
             link: grammar-connect-words-phrases
             sections:
               - title: "Sequential Clauses"

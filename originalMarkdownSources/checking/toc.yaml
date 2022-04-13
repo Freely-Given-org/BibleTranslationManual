@@ -36,13 +36,13 @@ sections:
             link: community-evaluation
       - title: "Church Leader Check"
         sections:
-          - title: "Qualifications for Accuracy Checkers"
+          - title: "Accuracy Checking by Church Leaders"
             link: church-leader-check
           - title: "Checking the Translation for Accuracy"
             link: accuracy-check
       - title: "Affirmation of Accuracy and Community Acceptance"
         link: good
-      - title: "Alignment Check in tC"
+      - title: "Alignment Check"
         link: alignment-tool
       - title: "Quality Checkers"
         sections:
@@ -52,7 +52,7 @@ sections:
             link: vol2-things-to-check
           - title: "Questions for Quality Checkers"
             link: level3-questions
-          - title: "Quality Checker Evaluation"
+          - title: "Quality Checker Evaluation Form"
             link: level3-approval
       - title: "Back Translation"
         link: vol2-backtranslation

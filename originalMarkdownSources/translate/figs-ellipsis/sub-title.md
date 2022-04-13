@@ -1,1 +1,1 @@
- What is ellipsis ? ([^1])
+ What is ellipsis ?

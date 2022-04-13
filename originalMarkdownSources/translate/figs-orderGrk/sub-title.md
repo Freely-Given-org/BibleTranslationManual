@@ -1,1 +1,1 @@
-Word order in Koiné Greek
+How does word order work in Koiné Greek?
